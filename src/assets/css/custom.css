@@ -1,0 +1,25 @@
+.ant-message {
+    top: 70px !important;
+}
+.register-course{
+    padding-top: 0px!important;
+}
+.register-course .wrap{
+    padding-top: 80px;
+}
+.register-course .wrap label{
+    position: relative;
+}
+.flexjustify-centermt-10{
+    margin-top: 20px;
+    text-align: center;
+}
+@media (min-width: 1536px){
+    .container{
+        max-width: 1280px;
+    }
+}
+.cXbcGt{
+    bottom: -25px !important;
+    left: 235px;
+}
